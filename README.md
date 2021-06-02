@@ -11,6 +11,25 @@ The features include:
 
 * 📝 Full E-Commerce application.
 * 📡 Realtime database in Firebase.
-* 📦 Full responsive
 * 💬 Stripe payment method
 
+#
+### Built With
+
+This project was built using these technologies.
+
+- React.js
+- Context-API
+- Stripe Payment
+- Express.js
+- firebase
+
+## Contributors
+
+**Author**
+
+​**Prathmesh Bhondave**
+
+- Github: [Prathmesh311](https://github.com/Prathmesh311)
+- Linkedin: [Prathmesh Bhondave](https://www.linkedin.com/in/prathmesh-bhondave/)
+- E-mail: prathmesh.bhondave2@gmail.com
